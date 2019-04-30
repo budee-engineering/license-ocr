@@ -1,0 +1,7 @@
+com/google/zxing/web/HTTPSFilterTestCase.class
+com/google/zxing/web/LRUMapTestCase.class
+com/google/zxing/web/DoSTrackerTestCase.class
+com/google/zxing/web/ChartServletRequestParametersTestCase.class
+com/google/zxing/web/OutputUtilsTestCase.class
+com/google/zxing/web/WelcomeFilterTestCase.class
+com/google/zxing/web/DoSFilterTestCase.class

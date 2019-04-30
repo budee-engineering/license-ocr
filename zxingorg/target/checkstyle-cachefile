@@ -1,0 +1,23 @@
+#Tue Apr 30 14:22:51 PDT 2019
+configuration*?=58B599EE82CCD03507144944B6392B08B12D5232
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/WelcomeFilter.java=1556658243091
+/Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/DoSFilterTestCase.java=1556658243093
+/Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/ChartServletRequestParametersTestCase.java=1556658243093
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ChartDoSFilter.java=1556658243088
+/Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/LRUMapTestCase.java=1556658243093
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/resources/Strings.properties=1556658243091
+/Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/DoSTrackerTestCase.java=1556658243093
+/Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/OutputUtilsTestCase.java=1556658243093
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DoSTracker.java=1556658243090
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/LRUMap.java=1556658243091
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ServletContextLogHandler.java=1556658243091
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ChartServlet.java=1556658243089
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DecodeDoSFilter.java=1556658243089
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/HTTPSFilter.java=1556658243090
+/Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/HTTPSFilterTestCase.java=1556658243093
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DecodeServlet.java=1556658243089
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/OutputUtils.java=1556658243091
+/Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/WelcomeFilterTestCase.java=1556658243093
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/AbstractFilter.java=1556658243088
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DoSFilter.java=1556658243090
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ChartServletRequestParameters.java=1556658243089

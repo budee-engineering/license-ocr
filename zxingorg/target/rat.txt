@@ -1,0 +1,53 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-04-30T14:22:53-07:00
+
+Notes: 0
+Binaries: 2
+Archives: 0
+Standards: 25
+
+Apache Licensed: 25
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/pom.xml
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/DoSFilterTestCase.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/DoSTrackerTestCase.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/HTTPSFilterTestCase.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/ChartServletRequestParametersTestCase.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/WelcomeFilterTestCase.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/LRUMapTestCase.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/test/java/com/google/zxing/web/OutputUtilsTestCase.java
+  B     /Users/aduong/Documents/Git/zxing/zxingorg/src/main/webapp/favicon.ico
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/webapp/.ebextensions/server.xml
+  B     /Users/aduong/Documents/Git/zxing/zxingorg/src/main/webapp/w/zxing-icon.png
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/webapp/w/response.jspx
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/webapp/w/decoderesult.jspx
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/webapp/w/decode.jspx
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ServletContextLogHandler.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/HTTPSFilter.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/WelcomeFilter.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DecodeDoSFilter.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/OutputUtils.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DecodeServlet.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ChartServletRequestParameters.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ChartServlet.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/AbstractFilter.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DoSFilter.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DoSTracker.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ChartDoSFilter.java
+  AL    /Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/LRUMap.java
+ 
+*****************************************************

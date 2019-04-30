@@ -1,0 +1,215 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-04-30T14:22:10-07:00
+
+Notes: 3
+Binaries: 24
+Archives: 0
+Standards: 162
+
+Apache Licensed: 162
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  N     LICENSE
+  AL    zxing.appspot.com/pom.xml
+  B     zxing.appspot.com/src/main/webapp/favicon.ico
+  B     zxing.appspot.com/src/main/webapp/zxingiconsmall.png
+  B     zxing.appspot.com/src/main/webapp/required-field-bg.png
+  B     zxing.appspot.com/src/main/webapp/img/app.png
+  B     zxing.appspot.com/src/main/webapp/img/badge.png
+  B     zxing.appspot.com/src/main/webapp/img/bg.png
+  AL    zxing.appspot.com/src/main/webapp/WEB-INF/web.xml
+  B     zxing.appspot.com/src/main/webapp/zxingicon.png
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/TextGenerator.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/GeoLocationGenerator.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/UrlGenerator.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/EmailGenerator.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/WifiGenerator.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/StylesDefs.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/CalendarEventGenerator.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/SmsAddressGenerator.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/PhoneNumberGenerator.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/Validators.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/GeneratorSource.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/TimeZoneInfo.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/TimeZoneList.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/GeneratorException.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/ContactInfoGenerator.java
+  AL    zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/Generator.java
+  N     AUTHORS
+  AL    pom.xml
+  N     NOTICE
+  AL    android-integration/pom.xml
+  AL    android-integration/src/main/java/com/google/zxing/integration/android/IntentIntegrator.java
+  AL    android-integration/src/main/java/com/google/zxing/integration/android/IntentResult.java
+  AL    android-core/pom.xml
+  AL    android-core/src/main/java/com/google/zxing/client/android/camera/CameraConfigurationUtils.java
+  AL    android/res/values-ro/strings.xml
+  AL    android/res/values-ru/strings.xml
+  AL    android/res/values-it/strings.xml
+  AL    android/res/values-ca/strings.xml
+  AL    android/res/values-cs/strings.xml
+  AL    android/res/layout-land/encode.xml
+  AL    android/res/layout-land/share.xml
+  AL    android/res/values-zh-rCN/strings.xml
+  B     android/res/drawable/launcher_icon.png
+  B     android/res/drawable/share_via_barcode.png
+  AL    android/res/values-in/strings.xml
+  AL    android/res/values-ja/strings.xml
+  AL    android/res/values-el/strings.xml
+  AL    android/res/values-da/strings.xml
+  AL    android/res/values-no/strings.xml
+  AL    android/res/layout/encode.xml
+  AL    android/res/layout/search_book_contents_header.xml
+  AL    android/res/layout/app_picker_list_item.xml
+  AL    android/res/layout/help.xml
+  AL    android/res/layout/bookmark_picker_list_item.xml
+  AL    android/res/layout/search_book_contents_list_item.xml
+  AL    android/res/layout/share.xml
+  AL    android/res/layout/history_list_item.xml
+  AL    android/res/layout/capture.xml
+  AL    android/res/layout/search_book_contents.xml
+  AL    android/res/values/colors.xml
+  AL    android/res/values/dimens.xml
+  AL    android/res/values/themes.xml
+  AL    android/res/values/arrays.xml
+  AL    android/res/values/styles.xml
+  AL    android/res/values/strings.xml
+  AL    android/res/values/ids.xml
+  AL    android/res/values-pl/strings.xml
+  AL    android/res/values-sv/strings.xml
+  AL    android/res/values-sl/strings.xml
+  AL    android/res/values-sk/strings.xml
+  B     android/res/drawable-xhdpi/launcher_icon.png
+  B     android/res/drawable-xxhdpi/launcher_icon.png
+  AL    android/res/xml/preferences.xml
+  AL    android/res/values-tr/strings.xml
+  B     android/res/drawable-hdpi/launcher_icon.png
+  AL    android/res/values-th/strings.xml
+  AL    android/res/values-fa/strings.xml
+  AL    android/res/values-eu/strings.xml
+  AL    android/res/menu/encode.xml
+  AL    android/res/menu/history.xml
+  AL    android/res/menu/capture.xml
+  AL    android/res/values-iw/strings.xml
+  AL    android/res/values-fi/strings.xml
+  AL    android/res/values-fr/strings.xml
+  AL    android/res/values-es/strings.xml
+  AL    android/res/values-hu/strings.xml
+  AL    android/res/values-nl/strings.xml
+  AL    android/res/values-bg/strings.xml
+  AL    android/res/values-nb/strings.xml
+  AL    android/res/values-hi/strings.xml
+  AL    android/res/values-de/strings.xml
+  AL    android/res/values-ko/strings.xml
+  AL    android/res/layout-ldpi/capture.xml
+  AL    android/res/values-ar/strings.xml
+  AL    android/res/values-pt/strings.xml
+  AL    android/res/values-zh/strings.xml
+  AL    android/res/values-uk/strings.xml
+  B     android/res/raw/beep.ogg
+  AL    android/AndroidManifest.xml
+  AL    android/pom.xml
+  B     android/assets/images/big-aztec.png
+  B     android/assets/images/scan-from-phone.png
+  B     android/assets/images/big-pdf417.png
+  B     android/assets/images/demo-yes.png
+  B     android/assets/images/big-1d.png
+  B     android/assets/images/contact-results-screen.jpg
+  B     android/assets/images/big-qr.png
+  B     android/assets/images/scan-example.png
+  B     android/assets/images/demo-no.png
+  B     android/assets/images/search-book-contents.jpg
+  B     android/assets/images/big-datamatrix.png
+  AL    android/src/com/google/zxing/client/android/wifi/NetworkType.java
+  AL    android/src/com/google/zxing/client/android/wifi/WifiConfigManager.java
+  AL    android/src/com/google/zxing/client/android/Intents.java
+  AL    android/src/com/google/zxing/client/android/AmbientLightManager.java
+  AL    android/src/com/google/zxing/client/android/HelpActivity.java
+  AL    android/src/com/google/zxing/client/android/InactivityTimer.java
+  AL    android/src/com/google/zxing/client/android/result/SMSResultHandler.java
+  AL    android/src/com/google/zxing/client/android/result/ResultButtonListener.java
+  AL    android/src/com/google/zxing/client/android/result/EmailAddressResultHandler.java
+  AL    android/src/com/google/zxing/client/android/result/GeoResultHandler.java
+  AL    android/src/com/google/zxing/client/android/result/ISBNResultHandler.java
+  AL    android/src/com/google/zxing/client/android/result/URIResultHandler.java
+  AL    android/src/com/google/zxing/client/android/result/TelResultHandler.java
+  AL    android/src/com/google/zxing/client/android/result/ResultHandler.java
+  AL    android/src/com/google/zxing/client/android/result/CalendarResultHandler.java
+  AL    android/src/com/google/zxing/client/android/result/ResultHandlerFactory.java
+  AL    android/src/com/google/zxing/client/android/result/supplement/TitleRetriever.java
+  AL    android/src/com/google/zxing/client/android/result/supplement/ProductResultInfoRetriever.java
+  AL    android/src/com/google/zxing/client/android/result/supplement/URIResultInfoRetriever.java
+  AL    android/src/com/google/zxing/client/android/result/supplement/SupplementalInfoRetriever.java
+  AL    android/src/com/google/zxing/client/android/result/supplement/BookResultInfoRetriever.java
+  AL    android/src/com/google/zxing/client/android/result/WifiResultHandler.java
+  AL    android/src/com/google/zxing/client/android/result/AddressBookResultHandler.java
+  AL    android/src/com/google/zxing/client/android/result/ProductResultHandler.java
+  AL    android/src/com/google/zxing/client/android/result/TextResultHandler.java
+  AL    android/src/com/google/zxing/client/android/DecodeFormatManager.java
+  AL    android/src/com/google/zxing/client/android/PreferencesFragment.java
+  AL    android/src/com/google/zxing/client/android/camera/CameraConfigurationManager.java
+  AL    android/src/com/google/zxing/client/android/camera/PreviewCallback.java
+  AL    android/src/com/google/zxing/client/android/camera/AutoFocusManager.java
+  AL    android/src/com/google/zxing/client/android/camera/CameraManager.java
+  AL    android/src/com/google/zxing/client/android/camera/open/OpenCamera.java
+  AL    android/src/com/google/zxing/client/android/camera/open/OpenCameraInterface.java
+  AL    android/src/com/google/zxing/client/android/camera/open/CameraFacing.java
+  AL    android/src/com/google/zxing/client/android/camera/FrontLightMode.java
+  AL    android/src/com/google/zxing/client/android/ViewfinderView.java
+  AL    android/src/com/google/zxing/client/android/Contents.java
+  AL    android/src/com/google/zxing/client/android/LocaleManager.java
+  AL    android/src/com/google/zxing/client/android/IntentSource.java
+  AL    android/src/com/google/zxing/client/android/FinishListener.java
+  AL    android/src/com/google/zxing/client/android/encode/VCardContactEncoder.java
+  AL    android/src/com/google/zxing/client/android/encode/VCardFieldFormatter.java
+  AL    android/src/com/google/zxing/client/android/encode/ContactEncoder.java
+  AL    android/src/com/google/zxing/client/android/encode/VCardTelDisplayFormatter.java
+  AL    android/src/com/google/zxing/client/android/encode/EncodeActivity.java
+  AL    android/src/com/google/zxing/client/android/encode/MECARDContactEncoder.java
+  AL    android/src/com/google/zxing/client/android/encode/Formatter.java
+  AL    android/src/com/google/zxing/client/android/encode/QRCodeEncoder.java
+  AL    android/src/com/google/zxing/client/android/DecodeThread.java
+  AL    android/src/com/google/zxing/client/android/ScanFromWebPageManager.java
+  AL    android/src/com/google/zxing/client/android/CaptureActivity.java
+  AL    android/src/com/google/zxing/client/android/HttpHelper.java
+  AL    android/src/com/google/zxing/client/android/ViewfinderResultPointCallback.java
+  AL    android/src/com/google/zxing/client/android/DecodeHandler.java
+  AL    android/src/com/google/zxing/client/android/history/HistoryItem.java
+  AL    android/src/com/google/zxing/client/android/history/HistoryItemAdapter.java
+  AL    android/src/com/google/zxing/client/android/history/HistoryManager.java
+  AL    android/src/com/google/zxing/client/android/history/DBHelper.java
+  AL    android/src/com/google/zxing/client/android/history/HistoryActivity.java
+  AL    android/src/com/google/zxing/client/android/book/SearchBookContentsAdapter.java
+  AL    android/src/com/google/zxing/client/android/book/SearchBookContentsResult.java
+  AL    android/src/com/google/zxing/client/android/book/SearchBookContentsListItem.java
+  AL    android/src/com/google/zxing/client/android/book/BrowseBookListener.java
+  AL    android/src/com/google/zxing/client/android/book/SearchBookContentsActivity.java
+  AL    android/src/com/google/zxing/client/android/DecodeHintManager.java
+  AL    android/src/com/google/zxing/client/android/PreferencesActivity.java
+  AL    android/src/com/google/zxing/client/android/CaptureActivityHandler.java
+  AL    android/src/com/google/zxing/client/android/BeepManager.java
+  AL    android/src/com/google/zxing/client/android/share/AppInfo.java
+  AL    android/src/com/google/zxing/client/android/share/LoadPackagesAsyncTask.java
+  AL    android/src/com/google/zxing/client/android/share/BookmarkAdapter.java
+  AL    android/src/com/google/zxing/client/android/share/BookmarkPickerActivity.java
+  AL    android/src/com/google/zxing/client/android/share/ShareActivity.java
+  AL    android/src/com/google/zxing/client/android/share/AppPickerActivity.java
+  AL    android/src/com/google/zxing/client/android/clipboard/ClipboardInterface.java
+  AL    src/checkstyle/checkstyle.xml
+  AL    src/findbugs/excludes.xml
+  AL    src/site/site.xml
+ 
+*****************************************************

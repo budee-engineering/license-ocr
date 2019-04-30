@@ -1,0 +1,13 @@
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/WelcomeFilter.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ChartDoSFilter.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DoSTracker.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/LRUMap.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ServletContextLogHandler.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/HTTPSFilter.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DecodeDoSFilter.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ChartServlet.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/OutputUtils.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DecodeServlet.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/ChartServletRequestParameters.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/AbstractFilter.java
+/Users/aduong/Documents/Git/zxing/zxingorg/src/main/java/com/google/zxing/web/DoSFilter.java
